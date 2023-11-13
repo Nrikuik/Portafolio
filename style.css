@@ -287,6 +287,18 @@ h1 {
   color: #656060;
 }
 
+.cita{
+  background-image: url(/imagenes/006papel.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 270px;
+  align-content:flex-end
+}
+
+.cita h3{
+  text-align: right;
+}
+
 /* Contacto */
 
 .contacto .container {
